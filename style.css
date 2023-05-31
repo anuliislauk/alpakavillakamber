@@ -1,0 +1,63 @@
+.profile-picture {
+    height: 450px;
+    width: 500px;
+    border-radius: 50%;
+    padding-left: 30px;
+  }
+
+  
+.kontakt-pilt {
+    width: 450px;
+    height: 400px;
+}
+
+.alpakad {
+  padding-top: 80px;
+  padding-left: 50px;
+  padding-right: 350px;
+  font-size: 1.3em;
+}
+
+.alpakad-pilt {
+  padding-left: 70px;
+  width: 450px;
+  height: 390px;
+}
+
+.tooted {
+  width: 280px;
+  height: 320px;
+}
+
+  h1  {
+font-family: 'Kaushan Script', cursive;
+  }
+
+  
+  p  {
+    font-family: 'Bonbon', cursive;
+      }
+
+  h3  {
+    font-family: 'Lobster', cursive;
+    }
+
+    a {
+        color: #876445;
+        font-family: 'Lobster', cursive;
+      }
+
+      
+  h2  {
+    font-family: 'Lobster', cursive;
+    }
+
+    ul {
+      font-family: 'Bonbon', cursive;
+    }
+
+    h4 {
+      font-family: 'Lobster', cursive;
+    }
+
+    
